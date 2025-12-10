@@ -18,6 +18,7 @@ C dili ve Winsock kütüphanesi kullanılarak geliştirilmiş, Windows tabanlı,
 2. `main.c` dosyasını bir C derleyicisinde (Örn: Dev-C++, GCC) açın.
 3. Derleyici ayarlarında Linker parametrelerine `-lws2_32` eklediğinizden emin olun.
 4. Derleyin ve çalıştırın!
+<img width="1106" height="620" alt="Ekran görüntüsü 2025-12-10 202121" src="https://github.com/user-attachments/assets/8f3c8453-f0d3-4028-87f4-47b396412d72" />
 
 ## ⚠️ Yasal Uyarı
 Bu yazılım sadece **eğitim amaçlı** geliştirilmiştir. Sadece size ait olan veya izniniz bulunan ağlarda test ediniz.
